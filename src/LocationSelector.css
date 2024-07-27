@@ -1,0 +1,22 @@
+.location-selector {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .selectors {
+    margin-top: 20px;
+  }
+  
+  select {
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .big-selector {
+    width: 200px;
+  }
+  
+  .small-selector {
+    width: 150px;
+  }
+  
